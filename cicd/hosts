@@ -1,0 +1,5 @@
+[build]
+<private_ip> ansible_user="ec2-user"
+
+[test]
+<private_ip> ansible_user="ec2-user"
