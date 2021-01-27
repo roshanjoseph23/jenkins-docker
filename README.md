@@ -29,7 +29,7 @@
 
 ## Ansible
 
-Copy files `deployment.yml` , `hosts`  to the Jenkins server
+Copy files `deployment.yml` , `hosts`  to the `jenkinsserver`
 
 `deployment.yml`  on **jenkinsbuild** server created using Terraform:
 
